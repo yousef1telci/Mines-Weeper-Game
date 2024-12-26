@@ -1,0 +1,13 @@
+C:\Users\ywsef\source\C#Forms\MinesWeeperGame\MinesWeeperGame\bin\Debug\MinesWeeperGame.exe.config
+C:\Users\ywsef\source\C#Forms\MinesWeeperGame\MinesWeeperGame\bin\Debug\MinesWeeperGame.exe
+C:\Users\ywsef\source\C#Forms\MinesWeeperGame\MinesWeeperGame\bin\Debug\MinesWeeperGame.pdb
+C:\Users\ywsef\source\C#Forms\MinesWeeperGame\MinesWeeperGame\obj\Debug\MinesWeeperGame.csproj.AssemblyReference.cache
+C:\Users\ywsef\source\C#Forms\MinesWeeperGame\MinesWeeperGame\obj\Debug\MinesWeeperGame.frmStart.resources
+C:\Users\ywsef\source\C#Forms\MinesWeeperGame\MinesWeeperGame\obj\Debug\MinesWeeperGame.Properties.Resources.resources
+C:\Users\ywsef\source\C#Forms\MinesWeeperGame\MinesWeeperGame\obj\Debug\MinesWeeperGame.csproj.GenerateResource.cache
+C:\Users\ywsef\source\C#Forms\MinesWeeperGame\MinesWeeperGame\obj\Debug\MinesWeeperGame.csproj.CoreCompileInputs.cache
+C:\Users\ywsef\source\C#Forms\MinesWeeperGame\MinesWeeperGame\obj\Debug\MinesWeeperGame.exe
+C:\Users\ywsef\source\C#Forms\MinesWeeperGame\MinesWeeperGame\obj\Debug\MinesWeeperGame.pdb
+C:\Users\ywsef\source\C#Forms\MinesWeeperGame\MinesWeeperGame\obj\Debug\MinesWeeperGame.frmGame.resources
+C:\Users\ywsef\source\C#Forms\MinesWeeperGame\MinesWeeperGame\obj\Debug\MinesWeeperGame.Resource1.resources
+C:\Users\ywsef\source\C#Forms\MinesWeeperGame\MinesWeeperGame\obj\Debug\MinesWeeperGame.SetDifficulty.resources
